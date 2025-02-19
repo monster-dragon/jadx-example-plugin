@@ -31,3 +31,5 @@ idea/
 *.cfg
 *.orig
 
+jadx-1.5.1/
+
