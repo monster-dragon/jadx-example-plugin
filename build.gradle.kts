@@ -43,7 +43,7 @@ java {
     targetCompatibility = JavaVersion.VERSION_11
 }
 
-version = System.getenv("VERSION") ?: "dev"
+version = "dev"
 
 tasks {
     withType(Test::class) {
