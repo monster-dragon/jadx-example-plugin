@@ -48,7 +48,7 @@ public class JadxGcashPlugin implements JadxPlugin {
 		return JadxPluginInfoBuilder.pluginId(PLUGIN_ID)
 				.name("Jadx Gcash plugin")
 				.description("Jadx plugin for Android app Gcash.")
-				.homepage("")
+				.homepage("https://github.com/monster-dragon/jadx-gcash-plugin")
 				.build();
 	}
 
